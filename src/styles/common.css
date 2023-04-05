@@ -1,0 +1,11 @@
+
+
+.common_sec{
+    background: url('../assets/image/banner01.jpg');
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 80px 0px;
+    
+}

@@ -1,0 +1,62 @@
+.addTOCart_btn-btn{
+   
+    border-radius: 5px;
+    color: aliceblue;
+    background: #df2020;
+    border: none;
+    
+}
+
+.addTOCart_btn-btn a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.formContainer{
+    background: #fde4e4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 350px;
+    width: 40%;
+    margin-left: 550px;
+}
+
+.formWrapper form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px ;
+    background: #fde4e4;
+
+}
+
+.formWrapper input{
+    
+    border: none;
+    border-bottom: 1px solid black;
+    background: #fde4e4;
+    outline: none;
+}
+
+.formWrapper form p{
+    font-size: 18px;
+    color: #212245;
+    margin:10px 10px 10px 10px;
+}
+
+span a{
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+.checkbox{
+    width: 10%;
+}
+.checkbox_btn{
+    font-size: 1.2rem;
+   
+   
+}
