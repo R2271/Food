@@ -2,7 +2,7 @@
   "name": "food",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://R2271.github.io/food",
+  "homepage": "http://R2271.github.io/Food",
   "dependencies": {
     "@chakra-ui/react": "^2.5.2",
     "@reduxjs/toolkit": "^1.9.3",
