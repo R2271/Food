@@ -2,7 +2,7 @@
   "name": "food",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ravi.github.io/food",
+  "homepage": "http://R2271.github.io/food",
   "dependencies": {
     "@chakra-ui/react": "^2.5.2",
     "@reduxjs/toolkit": "^1.9.3",
@@ -43,7 +43,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeplay": "npm run build",
-    "deplay": "gh-pages  -d build"
+    "deploy": "gh-pages  -d build"
   },
   "eslintConfig": {
     "extends": [
