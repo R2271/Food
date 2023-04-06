@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Food/static/css/main.2047edf2.css",
+    "main.js": "/Food/static/js/main.80684f99.js",
+    "static/media/remixicon.svg?t=1590207869815": "/Food/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/Food/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/Food/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/hero.jpg": "/Food/static/media/hero.d6ad30baf619f16735bd.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/Food/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/Food/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/16.jpg": "/Food/static/media/16.ea080689d351bc6a3bf4.jpg",
+    "static/media/116.png": "/Food/static/media/116.69562e05c0b33089a4a2.png",
+    "static/media/slice02.jpg": "/Food/static/media/slice02.a756c2d7e9fdfcc01539.jpg",
+    "static/media/pizza03.jpg": "/Food/static/media/pizza03.30625288c7d21ed4450d.jpg",
+    "static/media/pizza05.jpg": "/Food/static/media/pizza05.35633323f6d48e869171.jpg",
+    "static/media/slice01.jpg": "/Food/static/media/slice01.883b9d7ef1efb53cf918.jpg",
+    "static/media/pizza01.jpg": "/Food/static/media/pizza01.a0a1f520056c310305c3.jpg",
+    "static/media/burger04.jpg": "/Food/static/media/burger04.bf0af6a98882f4f055a6.jpg",
+    "static/media/banner01.jpg": "/Food/static/media/banner01.89ff287e8c562d20bc6c.jpg",
+    "static/media/slice03.jpg": "/Food/static/media/slice03.5729bca0803941d4f1f5.jpg",
+    "static/media/pizza02.png": "/Food/static/media/pizza02.469d5b1743c4ae780460.png",
+    "static/media/118.png": "/Food/static/media/118.09e205bc3dce300c7965.png",
+    "static/media/burger03.jpg": "/Food/static/media/burger03.b68095c87e6087602d07.jpg",
+    "static/media/burger02.jpg": "/Food/static/media/burger02.a6f744a7fbb3e30e8d42.jpg",
+    "static/media/burger01.jpg": "/Food/static/media/burger01.86076335d2b1f0ea440b.jpg",
+    "static/media/pizza04.jpg": "/Food/static/media/pizza04.3731bac116d01c4d644f.jpg",
+    "static/media/burger05.jpg": "/Food/static/media/burger05.0e61dcf7351c2d160273.jpg",
+    "static/media/115.jpg": "/Food/static/media/115.4d5b9c1a0d55d9ebf378.jpg",
+    "static/media/slick.svg": "/Food/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Food/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Food/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Food/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Food/index.html",
+    "main.2047edf2.css.map": "/Food/static/css/main.2047edf2.css.map",
+    "main.80684f99.js.map": "/Food/static/js/main.80684f99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2047edf2.css",
+    "static/js/main.80684f99.js"
+  ]
+}
