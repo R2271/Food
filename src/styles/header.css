@@ -33,11 +33,11 @@
 }
 
 .menu a:hover{
-    color: #df2020;
+    color: #206e31;
 }
 
 .active_menu{
-    color: #df2020 !important;
+    color: #206e31 !important;
 }
 
 .cart_icon i, .user i, .mobile_menu i{
@@ -54,7 +54,7 @@
     position: absolute;
     top: 25px;
     right: -10px;
-    background: #df2020;
+    background: #206e31;
     color: #fff;
     width: 15px;
     height: 15px;
@@ -77,7 +77,7 @@
     z-index: 99999;
     top: 0;
     left: 0;
-    box-shadow: 5px 5px 15px -5px #fde4e4;
+    box-shadow: 5px 5px 15px -5px #9bfaa0;
 }
 
 .addTOCart_btn-btn-btn{

@@ -26,13 +26,13 @@
 
 .category span{
     padding: 5px 10px;
-    background: #fde4e4;
+    background: #9bfaa0;
     color: #212245;
 
 }
 
 .tab{
-    border-bottom: 1px solid #fde4e4;
+    border-bottom: 1px solid #9bfaa0;
 }
 
 .tab h6{
@@ -49,13 +49,13 @@
 }
 
 .tab_active{
-    color: #df2020;
+    color: #206e31;
 }
 
 .form{
     width: 60%;
     margin: auto;
-    background: #fde4e4;
+    background: #9bfaa0;
     padding: 20px;
     border-radius: 5px;
     margin-bottom: 20px;
@@ -98,7 +98,7 @@
 }
 
 .text{
-    color: #fde4e4;
+    color: #9bfaa0;
 }
 
 .related_Product-title{
