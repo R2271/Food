@@ -115,8 +115,8 @@ const handleLogOut = async () => {
               <span className='.addTOCart_btn-btn'>
                 
                 
-                 { <button className='addTOCart_btn-btn-btn'><Link to={'/login'}>login</Link></button>} 
-                 {<button className='addTOCart_btn-btn-btn'onClick={handleLogOut} >logout</button>} 
+                 {/* { <button className='addTOCart_btn-btn-btn'><Link to={'/login'}>login</Link></button>}  */}
+                 {<button className='addTOCart_btn-btn-btn'onClick={handleLogOut} >login</button>} 
               </span>
           </div>
 

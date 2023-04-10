@@ -22,7 +22,6 @@ const Login = () => {
     setError("")
     try{
       await login(email, password);
-      console.log('login')
       navigate("/home");
     }catch (err) {
       setError(err.message)
