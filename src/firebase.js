@@ -1,19 +1,23 @@
 
 import { initializeApp } from "firebase/app";
 import { getAuth, } from "firebase/auth";
+import { getDatabase } from "firebase/database";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDAmz9tzSDTXlu_kZmOuYvd5RBUx3RMXTw",
-  authDomain: "fooddetails-39c9e.firebaseapp.com",
-  projectId: "fooddetails-39c9e",
-  storageBucket: "fooddetails-39c9e.appspot.com",
-  messagingSenderId: "216517147366",
-  appId: "1:216517147366:web:1ccc34583ff9dd9b035927"
+  apiKey: process.env.REACT_APP_FIREBASE_KEY,
+  authDomain: process.env.REACT_APP_FIREBASE_DOMAIN,
+  databaseURL: process.env.REACT_APP_FIREBASE_DATABASE,
+  projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.REACT_APP_FIREBASE_SENDER_ID,
+  appId: process.env.REACT_APP_MESSAGING_APP_ID,
 };
 
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+const database = getDatabase();
 export const auth = getAuth();
 export default app;
+  

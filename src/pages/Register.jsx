@@ -31,12 +31,6 @@ const Register = () => {
     }
   }
 
- 
-
-
-      
-  
-
   return <Helmet title='Signup'>
     <CommonSection title='Signup' />
     <div className='formContainer'>
